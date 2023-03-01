@@ -6,7 +6,7 @@ Project developed at Bootcamp LocalizaLabs React Developer with expert guidance 
 Learning how to create a news page like Forbes and NY Times that can be opened in the browser and also provide a mobile experience for the user. The application was developed in RectJS and we used the concepts of Progressive Web Application (PWA).
 (Aprendendo a criar uma página de notícias como Forbes e NY Times que pode ser aberta no browser e também proporcione uma experiência mobile para o usuário. A aplicação foi desenvolvida em RectJS e utilizamos os conceitos de Progressive Web Application (PWA).)
 
-![PWA](./docs/finished.png)
+![PWA](/PWA_News_Dio/docs/finished.png)
 
 [LICENSE](/LICENSE)
 
