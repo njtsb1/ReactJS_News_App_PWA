@@ -8,7 +8,7 @@ Learning how to create a news page like Forbes and NY Times that can be opened i
 
 ![PWA](./docs/finished.png)
 
-[LICENSE](./LICENSE)
+[LICENSE](/LICENSE)
 
 See [original](https://github.com/Tautorn/pwa-news-dio) [repostitory](https://github.com/Tautorn/pwa-news-api).
 
