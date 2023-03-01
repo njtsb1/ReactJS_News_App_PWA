@@ -1,4 +1,5 @@
 Daily learning
+
 # Creating a ReactJS News Application Using PWA
 
 Project developed at Bootcamp LocalizaLabs React Developer with expert guidance [Bruno Carneiro](https://github.com/Tautorn "Bruno Carneiro").</br>
